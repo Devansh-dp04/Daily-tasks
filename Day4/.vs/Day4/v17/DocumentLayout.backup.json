@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\BacancyInternship (2)\\Day4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BacancyInternship (2)\\Day4\\Programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF0674C-ECB3-4799-B7BD-E86E6E54795F}|Day4.csproj|d:\\bacancyinternship (2)\\day4\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF0674C-ECB3-4799-B7BD-E86E6E54795F}|Day4.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF0674C-ECB3-4799-B7BD-E86E6E54795F}|Day4.csproj|d:\\bacancyinternship (2)\\day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF0674C-ECB3-4799-B7BD-E86E6E54795F}|Day4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Programs.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\Day4\\Programs.cs",
-              "RelativeDocumentMoniker": "Programs.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\Day4\\Programs.cs",
-              "RelativeToolTip": "Programs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Run.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\Day4\\Run.cs",
+              "RelativeDocumentMoniker": "Run.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\Day4\\Run.cs",
+              "RelativeToolTip": "Run.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:56:26.318Z",
+              "WhenOpened": "2025-01-30T07:03:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\Day4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\Day4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:24:33.682Z",
               "EditorCaption": ""
             }
           ]
