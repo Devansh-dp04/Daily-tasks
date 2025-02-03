@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BacancyInternship\\Day5\\",
+  "WorkspaceRootPath": "D:\\BacancyInternship (2)\\Day5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F5A1424-6619-4F42-9BE4-9A3E1F6E73FE}|Day5.csproj|d:\\bacancyinternship\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F5A1424-6619-4F42-9BE4-9A3E1F6E73FE}|Day5.csproj|d:\\bacancyinternship (2)\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F5A1424-6619-4F42-9BE4-9A3E1F6E73FE}|Day5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5A1424-6619-4F42-9BE4-9A3E1F6E73FE}|Day5.csproj|d:\\bacancyinternship (2)\\day5\\schoolmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5A1424-6619-4F42-9BE4-9A3E1F6E73FE}|Day5.csproj|solutionrelative:schoolmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolManagement.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\Day5\\SchoolManagement.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\Day5\\SchoolManagement.cs",
+              "RelativeToolTip": "SchoolManagement.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAtwJ8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:29:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BacancyInternship\\Day5\\Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\Day5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BacancyInternship\\Day5\\Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\Day5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T04:28:44.664Z",
               "EditorCaption": ""
