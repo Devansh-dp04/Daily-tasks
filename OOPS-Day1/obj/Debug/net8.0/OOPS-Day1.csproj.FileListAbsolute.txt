@@ -1,0 +1,15 @@
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.AssemblyInfoInputs.cache
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.AssemblyInfo.cs
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.csproj.CoreCompileInputs.cache
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.sourcelink.json
+D:\BacancyInternship (2)\OOPS-Day1\bin\Debug\net8.0\OOPS-Day1.exe
+D:\BacancyInternship (2)\OOPS-Day1\bin\Debug\net8.0\OOPS-Day1.deps.json
+D:\BacancyInternship (2)\OOPS-Day1\bin\Debug\net8.0\OOPS-Day1.runtimeconfig.json
+D:\BacancyInternship (2)\OOPS-Day1\bin\Debug\net8.0\OOPS-Day1.dll
+D:\BacancyInternship (2)\OOPS-Day1\bin\Debug\net8.0\OOPS-Day1.pdb
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.dll
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\refint\OOPS-Day1.dll
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.pdb
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\OOPS-Day1.genruntimeconfig.cache
+D:\BacancyInternship (2)\OOPS-Day1\obj\Debug\net8.0\ref\OOPS-Day1.dll
