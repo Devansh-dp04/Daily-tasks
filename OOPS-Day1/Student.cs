@@ -10,6 +10,27 @@ namespace OOPS_DAY1
         private int Marks { get; set; }
 
 
+        //public void GetUserData()
+        //{
+        //    Console.WriteLine("Enter the number of users you want to enter: ");
+        //    int users = Convert.ToInt32(Console.ReadLine());
+        //    for (int i = 0; i < users; i++)
+
+        //    {
+        //        Console.Write("Enter the id ");
+        //        int id = Convert.ToInt32(Console.ReadLine());
+
+        //        Console.Write("Enter the Name ");
+        //        string name = Console.ReadLine();
+
+        //        Console.Write("Enter the Age ");
+        //        string age = Console.ReadLine();
+
+        //        Console.Write("Enter the Grade ");
+        //        int grade = Convert.ToInt32(Console.ReadLine());
+        //        Student stu = new Student(Id, Name, Age); 
+        //    }
+        //}
         public void ShowData(Student studentobj)
         {
             Console.WriteLine("ID: "+studentobj.Id);
