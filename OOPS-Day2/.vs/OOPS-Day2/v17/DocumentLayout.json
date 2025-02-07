@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\BacancyInternship (2)\\OOPS-Day2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\interface-partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:interface-partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\studentoperations_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:studentoperations_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\studentoperations_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:studentoperations_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\organizationmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:organizationmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|d:\\bacancyinternship (2)\\oops-day2\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DF0C-4BE7-4A08-9C59-E7AD63DE5737}|OOPS-Day2.csproj|solutionrelative:istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +50,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentOperations_v1.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentOperations_v1.cs",
+              "RelativeDocumentMoniker": "StudentOperations_v1.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentOperations_v1.cs",
+              "RelativeToolTip": "StudentOperations_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:53:54.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "DatabaseLogger.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\DatabaseLogger.cs",
+              "RelativeToolTip": "DatabaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:36:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StudentOperations_v2.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentOperations_v2.cs",
+              "RelativeDocumentMoniker": "StudentOperations_v2.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentOperations_v2.cs",
+              "RelativeToolTip": "StudentOperations_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:33:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentManager.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\StudentManager.cs",
+              "RelativeToolTip": "StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:27:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Programme.cs",
               "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\Programme.cs",
               "RelativeDocumentMoniker": "Programme.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\Programme.cs",
               "RelativeToolTip": "Programme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T10:40:34.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Interface-Partial.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\Interface-Partial.cs",
-              "RelativeDocumentMoniker": "Interface-Partial.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\Interface-Partial.cs",
-              "RelativeToolTip": "Interface-Partial.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Istudent.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\Istudent.cs",
+              "RelativeDocumentMoniker": "Istudent.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\Istudent.cs",
+              "RelativeToolTip": "Istudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T06:56:23.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inheritance.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\Inheritance.cs",
-              "RelativeDocumentMoniker": "Inheritance.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\Inheritance.cs",
-              "RelativeToolTip": "Inheritance.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "OrganizationMember.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\OOPS-Day2\\OrganizationMember.cs",
+              "RelativeDocumentMoniker": "OrganizationMember.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\OOPS-Day2\\OrganizationMember.cs",
+              "RelativeToolTip": "OrganizationMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T05:50:21.611Z"
+              "WhenOpened": "2025-02-06T05:50:21.611Z",
+              "EditorCaption": ""
             }
           ]
         }

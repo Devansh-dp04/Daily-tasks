@@ -1,34 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 namespace OOPSDay2
 {
-    partial class StudentOperations
-    {
-        public void DisplayStudents()
-        {
-            Console.WriteLine("Displaying all students:");
-            istudent.DisplayAllStudents();
-        }
-    }
-
-    public sealed class DatabaseLogger
-    {
-              public void log(string message)
-              { 
-                     Console.WriteLine(message);
-              }   
-    }
-    
-
+       
      public abstract class OrganizationMember
-    {
+     {
        public abstract void GetRole(); 
        public void PrintDetails()
         {
             Console.WriteLine("There are 65 memebers in the current organization");
-        } 
-       
-          
-    }
+        }         
+     }
     public class Person : OrganizationMember
     {
         public int ID;
@@ -38,8 +19,7 @@ namespace OOPSDay2
         public override void GetRole()
         {
             Console.WriteLine("Role:Person");
-        }
-       
+        }       
         public Person(int id, string name, int age) { 
             ID = id;
             Name = name;    
@@ -48,13 +28,10 @@ namespace OOPSDay2
     
          public virtual void DisplayDetails()
          {
-
             Console.WriteLine($"ID:{ID}");
             Console.WriteLine($"Name:{Name}");
             Console.WriteLine($"Age: {Age}");
-
          }
-
     }
     
     public class Student : Person {
@@ -63,7 +40,6 @@ namespace OOPSDay2
         public Student(int id, string name, int age, int marks) : base(id, name, age) {
             Marks = marks;       
         }
-
         public override void DisplayDetails()
         {
 
@@ -74,7 +50,6 @@ namespace OOPSDay2
         {
             Marks = marks;
         }
-
         public void CalculateGrade(int marks, bool includeExtraCredit)
         {
             try
@@ -90,17 +65,10 @@ namespace OOPSDay2
                     CalculateGrade(marks);
                 }
             }
-
             catch (Exception ex) { 
                 Console.WriteLine(ex.Message);
-            }
-            
+            }            
         }
-
-
-
     }
-
-
 }
 
