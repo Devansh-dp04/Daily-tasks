@@ -1,0 +1,15 @@
+D:\BacancyInternship (2)\LINQ-DAY1\bin\Debug\net8.0\LINQ-DAY1.exe
+D:\BacancyInternship (2)\LINQ-DAY1\bin\Debug\net8.0\LINQ-DAY1.deps.json
+D:\BacancyInternship (2)\LINQ-DAY1\bin\Debug\net8.0\LINQ-DAY1.runtimeconfig.json
+D:\BacancyInternship (2)\LINQ-DAY1\bin\Debug\net8.0\LINQ-DAY1.dll
+D:\BacancyInternship (2)\LINQ-DAY1\bin\Debug\net8.0\LINQ-DAY1.pdb
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.AssemblyInfoInputs.cache
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.AssemblyInfo.cs
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.csproj.CoreCompileInputs.cache
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.sourcelink.json
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.dll
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\refint\LINQ-DAY1.dll
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.pdb
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\LINQ-DAY1.genruntimeconfig.cache
+D:\BacancyInternship (2)\LINQ-DAY1\obj\Debug\net8.0\ref\LINQ-DAY1.dll
