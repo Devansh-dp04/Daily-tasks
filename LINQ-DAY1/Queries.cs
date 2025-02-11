@@ -74,7 +74,7 @@ namespace LINQ_DAY1
             {
                 Console.WriteLine("*************");
                 Console.WriteLine(item.Key);
-                var Stocklist = item.Select(item => new { item.Stock });
+                
                 int TotalStock = item.Sum(item => item.Stock);                
                 Console.WriteLine("Total Stock is " + TotalStock);
             }
@@ -139,6 +139,27 @@ namespace LINQ_DAY1
             Console.WriteLine(MinPrice);
             var MaxPrice = (from item in list select item.Price).Max();
             Console.WriteLine(MaxPrice);
+
+            var QuerySyntax8 = from item in list group item by item.Category into itemgroup select itemgroup;
+            foreach (var item in QuerySyntax8)
+            {
+                Console.WriteLine("*******************");
+                Console.WriteLine(item.Key);
+
+                var NameList = item.Select(item => new { item.Name });
+                foreach (var items in NameList)
+                {
+                    Console.WriteLine(items.Name);
+                }
+            }
+            var QuerySyntax9 = from item in list group item by item.Category into itemgroup select itemgroup;
+            foreach (var item in QuerySyntax9)
+            {
+                Console.WriteLine("*************");
+                Console.WriteLine(item.Key);                
+                int TotalStock = item.Sum(item => item.Stock);
+                Console.WriteLine("Total Stock is " + TotalStock);
+            }
         }
     }
 }
