@@ -12,5 +12,6 @@ public class Programme
         entries.AddEntries();
         Queries queries = new Queries();
         queries.MethodSyntaxQueries();
+        queries.MethodSyntaxQueries();
     }
 }

@@ -4,8 +4,6 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-
 namespace LINQ_DAY1
 {
     public class Entries
@@ -32,8 +30,7 @@ namespace LINQ_DAY1
             Product.productList.Add(new Product(18, "Fitness Tracker", "Wearables", 79.99, 25, new Collection<string> { "Supplier Q" }));
             Product.productList.Add(new Product(19, "Camera", "Photography", 699.99, 9, new Collection<string> { "Supplier R" }));
             Product.productList.Add(new Product(20, "Microwave", "Appliances", 129.99, 14, new Collection<string> { "Supplier S" }));
-
-        }          
+     }       
         
     }
 }
