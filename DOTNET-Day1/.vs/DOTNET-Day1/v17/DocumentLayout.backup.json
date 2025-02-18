@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\BacancyInternship (2)\\DOTNET-Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\dotnet-day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|solutionrelative:dotnet-day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\dotnet-day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|solutionrelative:dotnet-day1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E998616E-7CBF-421C-9A4E-52240F51068A}|DOTNET-Day1.csproj|d:\\bacancyinternship (2)\\dotnet-day1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +47,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBQAAAA+AAAAAAAAAA==",
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T10:37:12.781Z",
               "EditorCaption": ""
@@ -64,19 +64,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T09:26:23.304Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DOTNET-Day1.csproj",
               "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\DOTNET-Day1.csproj",
               "RelativeDocumentMoniker": "DOTNET-Day1.csproj",
@@ -115,6 +102,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-18T06:07:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:10:22.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:26:23.304Z",
               "EditorCaption": ""
             },
             {
@@ -128,19 +141,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-18T10:20:43.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:10:22.254Z",
               "EditorCaption": ""
             },
             {
