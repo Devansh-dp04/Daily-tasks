@@ -185,7 +185,7 @@ Create a LINQ query that fetches teacher names but does not execute immediately.
 Use a method to execute the query immediately and check if results are different.
 
 Implement an example to show lazy vs. eager loading behavior using LINQ.
-## DOTNET CORE-Day2
+## DOTNET CORE-Day1
 
 ### 1] Create a new project (web API).
 
