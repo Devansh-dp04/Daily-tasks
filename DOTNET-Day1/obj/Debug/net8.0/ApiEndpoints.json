@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DOTNET_Day1.Controllers.StudentController",
+    "Method": "WriteData",
+    "RelativePath": "api/v1/Student/PostRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "DOTNET_Day1.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
