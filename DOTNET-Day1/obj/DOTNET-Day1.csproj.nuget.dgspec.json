@@ -58,6 +58,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "Weather.NET": {
+              "target": "Package",
+              "version": "[1.3.3, )"
             }
           },
           "imports": [

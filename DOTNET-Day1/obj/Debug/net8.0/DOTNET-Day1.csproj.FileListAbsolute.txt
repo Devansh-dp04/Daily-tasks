@@ -36,3 +36,4 @@ D:\BacancyInternship (2)\DOTNET-Day1\obj\Debug\net8.0\refint\DOTNET-Day1.dll
 D:\BacancyInternship (2)\DOTNET-Day1\obj\Debug\net8.0\DOTNET-Day1.pdb
 D:\BacancyInternship (2)\DOTNET-Day1\obj\Debug\net8.0\DOTNET-Day1.genruntimeconfig.cache
 D:\BacancyInternship (2)\DOTNET-Day1\obj\Debug\net8.0\ref\DOTNET-Day1.dll
+D:\BacancyInternship (2)\DOTNET-Day1\bin\Debug\net8.0\Weather.NET.dll

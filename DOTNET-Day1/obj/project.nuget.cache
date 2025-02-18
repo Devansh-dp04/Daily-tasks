@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LUwIRiVNeSw=",
+  "dgSpecHash": "+lpwlQh3Sa4=",
   "success": true,
   "projectFilePath": "D:\\BacancyInternship (2)\\DOTNET-Day1\\DOTNET-Day1.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "C:\\Users\\Devansh Patel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\Devansh Patel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "C:\\Users\\Devansh Patel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\Devansh Patel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "C:\\Users\\Devansh Patel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\Devansh Patel\\.nuget\\packages\\weather.net\\1.3.3\\weather.net.1.3.3.nupkg.sha512"
   ],
   "logs": []
 }
