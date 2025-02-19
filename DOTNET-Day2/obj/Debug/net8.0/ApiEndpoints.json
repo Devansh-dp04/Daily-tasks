@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DOTNET_Day2.Controllers.MiddlewareController",
+    "Method": "GetRequest",
+    "RelativePath": "Middleware/GetRequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

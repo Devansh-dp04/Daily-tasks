@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Queries.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\LINQ-DAY2\\Queries.cs",
               "RelativeToolTip": "Queries.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAgwJoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:16:18.227Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Entries.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:39:00.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:39:00.189Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:28:55.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:28:55.333Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Course.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:33:42.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:33:42.547Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:28:37.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T05:28:37.05Z"
             }
           ]
         }
