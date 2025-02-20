@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BacancyInternship (2)\\DOT-NETDay3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|d:\\bacancyinternship (2)\\dot-netday3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|d:\\bacancyinternship (2)\\dot-netday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|d:\\bacancyinternship (2)\\dot-netday3\\guid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0EBAE4-0DDF-4869-A4F5-306EC401DE57}|DOT-NETDay3.csproj|solutionrelative:guid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOT-NETDay3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOT-NETDay3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:30:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUID.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOT-NETDay3\\GUID.cs",
+              "RelativeDocumentMoniker": "GUID.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOT-NETDay3\\GUID.cs",
+              "RelativeToolTip": "GUID.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:24:48.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\DOT-NETDay3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\DOT-NETDay3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:23:16.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,16 +12,19 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseMiddleware<LogMiddleware>();
-app.UseMiddleware<ExceptionHandlingMiddleware>();
-app.Use(async (context,next) =>
-{
-    Console.WriteLine("Inside the use middleware");
-    await next();    
-});
-app.Run(async (context) => {
-    Console.WriteLine("Inside the run middleware");
-});
+//app.UseMiddleware<LogMiddleware>();
+//app.UseMiddleware<ExceptionHandlingMiddleware>();
+
+app.UseLogMiddleware();
+
+//app.Use(async (context,next) =>
+//{
+//    Console.WriteLine("Inside the use middleware");
+//    await next();    
+//});
+//app.Run(async (context) => {
+//    Console.WriteLine("Inside the run middleware");
+//});
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();

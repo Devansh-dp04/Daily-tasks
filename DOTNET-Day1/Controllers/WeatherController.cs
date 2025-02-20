@@ -9,8 +9,8 @@ namespace DOTNET_Day1.Controllers
     [ApiController]
     public class WeatherController : ControllerBase
     {
-        [HttpPost("PostRequest/{city}")]
-        public IActionResult PostWeather( string city) {
+        [HttpPost("PostRequest/")]
+        public IActionResult PostWeather( [FromQuery]string city) {
             try
             {
                 string API_KEY = "74990608688c51e27475591536971ec4";

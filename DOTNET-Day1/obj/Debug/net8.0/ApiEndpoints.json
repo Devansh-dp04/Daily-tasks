@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "DOTNET_Day1.Controllers.StudentController",
+    "Method": "ReadData",
+    "RelativePath": "api/v1/Student/GetRequest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DOTNET_Day1.Controllers.StudentController",
     "Method": "WriteData",
     "RelativePath": "api/v1/Student/PostRequest",
     "HttpMethod": "POST",
@@ -18,7 +28,7 @@
   {
     "ContainingType": "DOTNET_Day1.Controllers.WeatherController",
     "Method": "PostWeather",
-    "RelativePath": "api/Weather/Weather/PostRequest/{city}",
+    "RelativePath": "api/Weather/Weather/PostRequest",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,7 +36,7 @@
       {
         "Name": "city",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

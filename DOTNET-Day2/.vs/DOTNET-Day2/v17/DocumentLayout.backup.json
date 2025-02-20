@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\BacancyInternship (2)\\DOTNET-Day2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\controllers\\middlewarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD200A55-0FD9-4E30-8A9A-69C18C873021}|DOTNET-Day2.csproj|d:\\bacancyinternship (2)\\dotnet-day2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,20 +52,20 @@
               "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T09:00:25.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:50:53.939Z",
               "EditorCaption": ""
@@ -78,14 +78,14 @@
               "RelativeDocumentMoniker": "Controllers\\MiddlewareController.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Controllers\\MiddlewareController.cs",
               "RelativeToolTip": "Controllers\\MiddlewareController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:30:51.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -98,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "LogMiddleware.cs",
               "DocumentMoniker": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Middleware\\LogMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\LogMiddleware.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\DOTNET-Day2\\Middleware\\LogMiddleware.cs",
               "RelativeToolTip": "Middleware\\LogMiddleware.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T08:41:00.28Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T09:49:52.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T09:49:52.298Z"
             }
           ]
         }
