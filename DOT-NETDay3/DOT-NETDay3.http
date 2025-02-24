@@ -1,6 +1,6 @@
-@DOT_NETDay3_HostAddress = http://localhost:5251
+@Dot_NETDay3_HostAddress = http://localhost:5088
 
-GET {{DOT_NETDay3_HostAddress}}/weatherforecast/
+GET {{Dot_NETDay3_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

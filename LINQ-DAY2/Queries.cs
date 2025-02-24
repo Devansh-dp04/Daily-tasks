@@ -145,6 +145,7 @@ namespace LINQ_DAY2
                 Console.WriteLine($"ID:{item.CourseID},Name:{item.CourseName}");
             }
             var DefferedExecution = courseList.Select(c => c.CourseName);
+            courseList.Add(new Course(11, 2, "Scince", 6));
             Console.WriteLine("");
             Console.WriteLine("********************Output of Deffered Execution********************");
             foreach (var item in DefferedExecution)
@@ -155,7 +156,7 @@ namespace LINQ_DAY2
             Console.WriteLine("");
             Console.WriteLine("********************Output of Immediate Execution********************");
             var ImmediateExecution = courseList.Select(c => c.CourseName).ToList();
-            ImmediateExecution.Add(new Course(11, 2, "Scince", 6).CourseName);
+            courseList.Add(new Course(11, 2, "Scince", 6));
             foreach (var item in ImmediateExecution)
             {
                 Console.WriteLine(item);

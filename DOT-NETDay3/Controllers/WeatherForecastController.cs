@@ -1,33 +1,32 @@
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DOT_NETDay3.Controllers;
+namespace Dot_NETDay3.Controllers;
 
 [ApiController]
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
-    private readonly IGUID1 _guid1;
-    private readonly IGUID2 _guid2;
-    private readonly IGUID2 _guid4;
-    private readonly IGUID3 _guid3;
-    private readonly IGUID3 _guid5;
-    public WeatherForecastController(IGUID1 gUID1, IGUID2 gUID2, IGUID2 guid4, IGUID3 gUID3, IGUID3 gUID31)
+    private static readonly string[] Summaries = new[]
     {
-        _guid1 = gUID1;
-        _guid2 = gUID2;
-        _guid3 = gUID3;
-        _guid4 = guid4;
-        _guid5 = gUID31;
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    };
+
+    private readonly ILogger<WeatherForecastController> _logger;
+
+    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    {
+        _logger = logger;
     }
-    [HttpGet("GetRequest")]
-    public IActionResult Get()
+
+    [HttpGet(Name = "GetWeatherForecast")]
+    public IEnumerable<WeatherForecast> Get()
     {
-        Console.WriteLine($"Singleton: {_guid1.Getguid1()}");        
-        Console.WriteLine($"Transient: {_guid3.Getguid1()}");
-        Console.WriteLine($"Transient: {_guid5.Getguid1()}");
-        Console.WriteLine($"Scoped: {_guid2.Getguid1()}");
-        Console.WriteLine($"Scoped: {_guid4.Getguid1()}");
-        return Ok();
+        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        {
+            Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
+            TemperatureC = Random.Shared.Next(-20, 55),
+            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+        })
+        .ToArray();
     }
 }

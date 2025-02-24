@@ -1,0 +1,6 @@
+@Dot_NETDAY4_HostAddress = http://localhost:5070
+
+GET {{Dot_NETDAY4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

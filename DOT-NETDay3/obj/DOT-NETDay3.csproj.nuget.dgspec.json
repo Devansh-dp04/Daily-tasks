@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BacancyInternship (2)\\DOT-NETDay3\\DOT-NETDay3.csproj": {}
+    "D:\\BacancyInternship (2)\\Dot-NETDay3\\Dot-NETDay3.csproj": {}
   },
   "projects": {
-    "D:\\BacancyInternship (2)\\DOT-NETDay3\\DOT-NETDay3.csproj": {
+    "D:\\BacancyInternship (2)\\Dot-NETDay3\\Dot-NETDay3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BacancyInternship (2)\\DOT-NETDay3\\DOT-NETDay3.csproj",
-        "projectName": "DOT-NETDay3",
-        "projectPath": "D:\\BacancyInternship (2)\\DOT-NETDay3\\DOT-NETDay3.csproj",
+        "projectUniqueName": "D:\\BacancyInternship (2)\\Dot-NETDay3\\Dot-NETDay3.csproj",
+        "projectName": "Dot-NETDay3",
+        "projectPath": "D:\\BacancyInternship (2)\\Dot-NETDay3\\Dot-NETDay3.csproj",
         "packagesPath": "C:\\Users\\Devansh Patel\\.nuget\\packages\\",
-        "outputPath": "D:\\BacancyInternship (2)\\DOT-NETDay3\\obj\\",
+        "outputPath": "D:\\BacancyInternship (2)\\Dot-NETDay3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

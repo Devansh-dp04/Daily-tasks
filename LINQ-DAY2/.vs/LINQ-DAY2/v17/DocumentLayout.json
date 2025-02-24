@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Queries.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\LINQ-DAY2\\Queries.cs",
               "RelativeToolTip": "Queries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:16:18.227Z",
               "EditorCaption": ""
@@ -61,9 +61,10 @@
               "RelativeDocumentMoniker": "Entries.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\LINQ-DAY2\\Entries.cs",
               "RelativeToolTip": "Entries.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:39:00.189Z"
+              "WhenOpened": "2025-02-12T05:39:00.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:28:55.333Z"
+              "WhenOpened": "2025-02-12T05:28:55.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +89,8 @@
               "RelativeToolTip": "Course.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:33:42.547Z"
+              "WhenOpened": "2025-02-12T05:33:42.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,9 +100,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\BacancyInternship (2)\\LINQ-DAY2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T05:28:37.05Z"
+              "WhenOpened": "2025-02-12T05:28:37.05Z",
+              "EditorCaption": ""
             }
           ]
         }

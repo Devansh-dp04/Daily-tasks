@@ -10,6 +10,6 @@ public class Programme
         Entries.PopulateCourses2();
         Queries queries = new Queries();
         queries.QuerySyntax();
-        //queries.MethodSyntax();
+        queries.MethodSyntax();
     }
 }
