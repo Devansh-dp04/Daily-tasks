@@ -1,8 +1,18 @@
 [
   {
     "ContainingType": "JWT_Day1.Controllers.AuthController",
-    "Method": "Get",
-    "RelativePath": "api/Auth/GetRequest",
+    "Method": "AdminGet",
+    "RelativePath": "api/Auth/AdminGet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWT_Day1.Controllers.AuthController",
+    "Method": "DoctorGet",
+    "RelativePath": "api/Auth/DoctorGet",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -34,6 +44,16 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "JWT_Day1.Controllers.AuthController",
+    "Method": "PatientGet",
+    "RelativePath": "api/Auth/PatientGet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "JWT_Day1.Controllers.AuthController",

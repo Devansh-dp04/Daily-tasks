@@ -37,26 +37,36 @@ namespace JWT_Day1.Controllers
             {
                 return BadRequest("Wrong Password");
             }
-            string token = CreateToken(user);
+            string token = CreateToken(request);
             Console.WriteLine(token);
             return Ok("Login successful");
         }
 
-        [Authorize]
-        [HttpGet("GetRequest")]
-        public IActionResult Get()
-        {
-            foreach (var usermember in userlist)
-            {
-                Console.WriteLine($"Name: {usermember.Username}\n,PasswordHash: {usermember.PasswordHash}");
-            }
-            return Ok("Get Request Successful");
+        [Authorize(Roles = "admin")]
+        [HttpGet("AdminGet")]
+        public IActionResult AdminGet()
+        {            
+            return Ok("You are in Admin dashboard");
         }
-        private string CreateToken(User user) {
+        [Authorize(Roles = "doctor,admin")]
+        [HttpGet("DoctorGet")]
+        public IActionResult DoctorGet()
+        {
+            
+            return Ok("You are in doctor dashboard");
+        }
+        [Authorize(Roles = "patient,admin")]
+        [HttpGet("PatientGet")]
+        public IActionResult PatientGet()
+        {            
+            return Ok("You are in patient dashboard");
+        }
+        private string CreateToken(UserDto user) {
             
                 var claims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Name, user.Username)
+                    new Claim(ClaimTypes.Name, user.Username),
+                    new Claim(ClaimTypes.Role, user.Role.ToLower().Trim())
                 };
                 var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(configuration.GetValue<string>("jwt:key")!));
                 var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -68,11 +78,6 @@ namespace JWT_Day1.Controllers
                         signingCredentials: creds
                 );           
                 return new JwtSecurityTokenHandler().WriteToken(tokendescriptor);
-            }
-
-
-        
-    }
-    
-    
+         }        
+    }   
 }

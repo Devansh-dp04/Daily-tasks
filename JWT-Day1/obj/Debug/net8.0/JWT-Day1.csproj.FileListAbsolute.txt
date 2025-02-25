@@ -44,3 +44,7 @@ D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\System.IdentityModel.Tokens.J
 D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Scrutor.dll
+D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+D:\BacancyInternship (2)\JWT-Day1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
