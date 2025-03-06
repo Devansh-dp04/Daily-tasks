@@ -1,0 +1,16 @@
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+
+namespace WebApplication1.Controllers;
+
+[ApiController]
+[Route("[controller]")]
+public class WeatherForecastController : ControllerBase
+{
+   
+    [HttpGet(Name = "GetWeatherForecast")]
+    public ActionResult Get()
+    {
+        return Ok();
+    }
+}
