@@ -1,2 +1,0 @@
-{"Name":"Devansh","Age":20,"Address":"asjdalkdjaslk"}{"Id":1,"name":"Devansh","position":"Dev","Salary":100000}
-{"Id":2,"name":"Meghal","position":"DEV","Salary":1000000}
