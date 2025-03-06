@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignment-2\\dbcontext_di\\migrations\\20250306112417_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C609E9B-05CE-4AD2-8C8C-5150FD305AC4}|DBContext_DI.csproj|solutionrelative:migrations\\20250306112417_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250306112417_initial-migration.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Migrations\\20250306112417_initial-migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306112417_initial-migration.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Migrations\\20250306112417_initial-migration.cs",
+              "RelativeToolTip": "Migrations\\20250306112417_initial-migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:24:17.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T11:07:18.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:51:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:49:36.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:48:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignment-2\\DBContext_DI\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:42:06.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
