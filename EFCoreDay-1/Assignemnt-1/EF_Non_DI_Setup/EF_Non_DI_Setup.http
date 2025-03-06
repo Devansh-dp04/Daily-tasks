@@ -1,0 +1,6 @@
+@EF_Non_DI_Setup_HostAddress = http://localhost:5038
+
+GET {{EF_Non_DI_Setup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
