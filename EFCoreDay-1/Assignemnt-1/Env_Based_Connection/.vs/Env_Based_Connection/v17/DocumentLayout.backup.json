@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\migrations\\20250306102637_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:migrations\\20250306102637_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:classinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|d:\\bacancyinternship (2)\\efcoreday-1\\assignemnt-1\\env_based_connection\\env_based_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8A7E17B-0A5E-41C1-9CAE-C0F3DA8796C1}|Env_Based_Connection.csproj|solutionrelative:env_based_connection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250306102637_Initial-Migration.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Migrations\\20250306102637_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250306102637_Initial-Migration.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Migrations\\20250306102637_Initial-Migration.cs",
+              "RelativeToolTip": "Migrations\\20250306102637_Initial-Migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:26:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:15:37.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:13:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DbConnection.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Data\\DbConnection.cs",
+              "RelativeToolTip": "Data\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:05:43.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:54:19.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassInfo.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\ClassInfo.cs",
+              "RelativeDocumentMoniker": "ClassInfo.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\ClassInfo.cs",
+              "RelativeToolTip": "ClassInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:50:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Env_Based_Connection.csproj",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Env_Based_Connection.csproj",
+              "RelativeDocumentMoniker": "Env_Based_Connection.csproj",
+              "ToolTip": "D:\\BacancyInternship (2)\\EFCoreDay-1\\Assignemnt-1\\Env_Based_Connection\\Env_Based_Connection.csproj",
+              "RelativeToolTip": "Env_Based_Connection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T09:47:50.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

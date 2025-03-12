@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF_Non_DI_Setup.props" />
+</Project>

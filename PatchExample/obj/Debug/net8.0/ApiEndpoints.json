@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "PatchExample.Controllers.UserController",
+    "Method": "PatchRequest",
+    "RelativePath": "User/PatchTemprature",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PatchExample.UserDto.UserUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatchExample.Controllers.UserController",
+    "Method": "PostData",
+    "RelativePath": "User/PostData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "PatchExample.User.UserMain",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BacancyInternship (2)\\PatchExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|d:\\bacancyinternship (2)\\patchexample\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|d:\\bacancyinternship (2)\\patchexample\\userdto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|solutionrelative:userdto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|d:\\bacancyinternship (2)\\patchexample\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|d:\\bacancyinternship (2)\\patchexample\\patchexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C445CD98-1F27-497A-B96F-D74BC2AF45FA}|PatchExample.csproj|solutionrelative:patchexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\PatchExample\\UserDto\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "UserDto\\UserUpdateDto.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\PatchExample\\UserDto\\UserUpdateDto.cs",
+              "RelativeToolTip": "UserDto\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:09:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatchExample",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\PatchExample\\PatchExample.csproj",
+              "RelativeDocumentMoniker": "PatchExample.csproj",
+              "ToolTip": "D:\\BacancyInternship (2)\\PatchExample\\PatchExample.csproj",
+              "RelativeToolTip": "PatchExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T05:08:11.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\PatchExample\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\PatchExample\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:06:59.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BacancyInternship (2)\\PatchExample\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\BacancyInternship (2)\\PatchExample\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:05:53.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

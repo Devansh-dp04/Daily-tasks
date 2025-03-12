@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BacancyInternship\\EF-CoreDay4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BacancyInternship\\EF-CoreDay4\\Migrations\\20250312120757_IsVip_Entry_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250312120757_IsVip_Entry_Updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|d:\\bacancyinternship\\ef-coreday4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA43E36-281E-40CE-9970-6ACC140C9EBD}|EF-CoreDay4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250312120757_IsVip_Entry_Updated.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Migrations\\20250312120757_IsVip_Entry_Updated.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250312120757_IsVip_Entry_Updated.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Migrations\\20250312120757_IsVip_Entry_Updated.cs",
+              "RelativeToolTip": "Migrations\\20250312120757_IsVip_Entry_Updated.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:07:57.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:16:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QueryController.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "Controllers\\QueryController.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwMEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:10:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:44:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbConnect.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Data\\AppDbConnect.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbConnect.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Data\\AppDbConnect.cs",
+              "RelativeToolTip": "Data\\AppDbConnect.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:20:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:04:41.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BacancyInternship\\EF-CoreDay4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BacancyInternship\\EF-CoreDay4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T09:44:52.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

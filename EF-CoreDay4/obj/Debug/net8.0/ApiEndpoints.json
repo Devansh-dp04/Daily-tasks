@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "CombinationResultOrders",
+    "RelativePath": "Query/CombinationResultOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "ExplicitLoadingCustomers",
+    "RelativePath": "Query/ExplicitLoadingCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "ExplicitLoadingProducts",
+    "RelativePath": "Query/ExplicitLoadingProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetCombinationResult",
+    "RelativePath": "Query/GetCombinationResult",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetCombinationResultQuantityGreaterThan5",
+    "RelativePath": "Query/GetCombinationResultQuantityGreaterThan5",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetConditionalCustomers",
+    "RelativePath": "Query/GetConditionalCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetCustomers",
+    "RelativePath": "Query/GetCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetlastMonthOrders",
+    "RelativePath": "Query/GetlastMonthOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "GetOrderProduct",
+    "RelativePath": "Query/GetOrderProduct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "LazyConditional",
+    "RelativePath": "Query/LazyConditional",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EF_CoreDay4.Controllers.QueryController",
+    "Method": "LazyGet",
+    "RelativePath": "Query/LazyGet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
